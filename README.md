@@ -1,2 +1,3 @@
 # GlobulaTheGame
-Unity project for Globula game
+Unity project for Globula geolocation game.
+This project based on OpenStreetMaps database.
